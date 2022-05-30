@@ -1,3 +1,2 @@
 # getting-started-github-actions
 
-###
